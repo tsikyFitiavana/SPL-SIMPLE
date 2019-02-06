@@ -1,2 +1,8 @@
 # SPL-SIMPLE
 Groupe SIMPLE
+
+RAKOTONDRAZANAKA Bruno
+MIRANTO Tefimampihonona
+NOMENJANAHARY Narindra Nambinintsoa
+RAZANABELAHY Henri
+.....
